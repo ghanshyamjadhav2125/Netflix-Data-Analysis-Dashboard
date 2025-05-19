@@ -10,9 +10,9 @@ This project is a Power BI-based interactive dashboard built using a Netflix dat
 
 
 ## 📊 Dashboard Overview
-![alt text](Assets/screenshot_1.png)
-![alt text](Assets/screenshot_2.png)
-![alt text](Assets/screenshot_3.png)
+![alt text](Assets/welcome.PNG)
+![alt text](Assets/overview.PNG)
+![alt text](Assets/explore.PNG)
 
 ---
 
