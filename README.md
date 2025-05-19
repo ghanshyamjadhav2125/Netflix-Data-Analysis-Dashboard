@@ -8,6 +8,14 @@ This project is a Power BI-based interactive dashboard built using a Netflix dat
 
 ---
 
+
+## 📊 Dashboard Overview
+![alt text](Assets/screenshot_1.png)
+![alt text](Assets/screenshot_2.png)
+![alt text](Assets/screenshot_3.png)
+
+---
+
 ## 🛠 Technologies Used  
 - **Power BI** – Data visualization  
 - **Power Query** – Data transformation  
