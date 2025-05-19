@@ -85,9 +85,9 @@ This project helps in understanding Netflix’s content strategy and global pres
 ---
 
 ## 🔗 Connect With Me  
-- [LinkedIn](#)  
-- [GitHub](#)  
-- 📧 Email: your-email@example.com
+- [[LinkedIn](https://www.linkedin.com/in/ghanshyamjadhav/)](#)  
+- [[GitHub](https://github.com/ghanshyamjadhav2125)](#)  
+- 📧 Email:ghanshyamjadhav3825@gmail.com
 
 ---
 
